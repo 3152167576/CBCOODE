@@ -1,0 +1,17 @@
+body{
+
+    margin: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 0;
+}
+header{
+
+    background-color: rgb(255, 81, 0);color: black; text-align: center;padding: 10px
+}
+nav{background-color: rgb(63, 59, 52);padding: 10px;}
+nav ul{margin: 0;padding: 0;list-style: none;}
+nav ul li{display: inline;margin-right: 50px;}
+nav a{color: rgb(255, 4, 4);font-size: 45px;font-weight: bold;}
+
+section{padding: 23px;}
+footer{background-color: black;color: rgb(255, 0, 0);text-align: center;padding: 15px;}
